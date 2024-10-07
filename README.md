@@ -83,7 +83,7 @@
  <img src="https://github.com/user-attachments/assets/bcee43ee-2e9f-438d-a590-1b88a85ee883" width="1450" height="540"><br><br>
 
  # 주문 및 결제
- <img src="https://github.com/user-attachments/assets/5749137c-a5eb-45c5-84dc-0654b3a46511" width="1450" height="540"><br><br>
+ <img src="https://github.com/user-attachments/assets/5749137c-a5eb-45c5-84dc-0654b3a46511" width="1450" height="570"><br><br>
 
 <div>
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 	:zap: 미구현 기능 </h2>
