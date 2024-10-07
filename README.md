@@ -74,7 +74,7 @@
  <img src="https://github.com/user-attachments/assets/3264a018-4c09-4fca-be8c-ffe73eb33e24" width="1450" height="470"><br><br>
 
  # 상품 정보 확인
- <img src="https://github.com/user-attachments/assets/b64b8af6-5d53-405c-99d2-ff689fac8f53" width="1450" height="540"><br><br>
+ <img src="https://github.com/user-attachments/assets/b64b8af6-5d53-405c-99d2-ff689fac8f53" width="1450" height="500"><br><br>
 
  # 상품 주문
  <img src="https://github.com/user-attachments/assets/da63370a-f61c-44c5-823e-1366eebc8300" width="1450" height="500"><br><br>
